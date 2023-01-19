@@ -12,8 +12,8 @@
 
 **Grant Writing - Andrew Derrington**
  - [Are you ready to start?](https://parkerderrington.com/are-you-ready-to-start/)
- - [https://parkerderrington.com/be-prepared/](https://parkerderrington.com/be-prepared/)
- - [ERC Grant Interviews: Recipe for a Good Talk(https://parkerderrington.com/erc-grant-interviews-recipe-for-a-good-talk/)]
+ - [Be Prepared](https://parkerderrington.com/be-prepared/)
+ - [ERC Grant Interviews: Recipe for a Good Talk](https://parkerderrington.com/erc-grant-interviews-recipe-for-a-good-talk/)
  - [Say it again Sam. And use the same words.](https://parkerderrington.com/say-it-again-sam/)
  - [Who is Your Target Reader?](https://parkerderrington.com/target_reader/)
  - [The perfect introduction](https://parkerderrington.com/grant-writing-introduction/)
