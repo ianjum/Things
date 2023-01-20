@@ -1,6 +1,6 @@
 ### January, 2023
 
-**The pain points of teaching computer science**[link](https://austinhenley.com/blog/teachingpainpoints.html)
+**The pain points of teaching computer science** [link](https://austinhenley.com/blog/teachingpainpoints.html)
 
 **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** [link](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 ```
