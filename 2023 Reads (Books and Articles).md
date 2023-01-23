@@ -1,5 +1,12 @@
 ### January, 2023
 
+**Preparing for Academic Interviews** 
+```
+- [link](https://www.training.nih.gov/assets/Preparing_for_Academic_Interviews_Handout.pdf)
+- [link](https://www.indeed.com/career-advice/interviewing/tenure-track-professor-interview-questions)
+- [link](https://www.youtube.com/watch?v=HBF31vC9_3I)
+```
+
 **Talking the Talk: Preparing for the Academic Job Talk** [link](https://sites.umiacs.umd.edu/elm/2022/05/04/talking-the-talk-preparing-for-the-academic-job-talk/)
 
 **How to give an academic job talk.** [link]{https://www.youtube.com/watch?v=jkKFEYp0yvo}
