@@ -1,21 +1,24 @@
 ### February, 2023
 
-**How to Talk
+## How to be the #1 pick in an R1 faculty search
+- [link](https://www.youtube.com/watch?v=gjXD5dwRnDU&t=196s)
+
+## How to Talk
 - [link](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 ### January, 2023
 
-**Preparing for Academic Interviews** 
+## Preparing for Academic Interviews** 
 - [link](https://www.training.nih.gov/assets/Preparing_for_Academic_Interviews_Handout.pdf)
 - [link](https://www.indeed.com/career-advice/interviewing/tenure-track-professor-interview-questions)
 - [link](https://www.youtube.com/watch?v=HBF31vC9_3I)
 
 
-**Talking the Talk: Preparing for the Academic Job Talk** [link](https://sites.umiacs.umd.edu/elm/2022/05/04/talking-the-talk-preparing-for-the-academic-job-talk/)
+## Talking the Talk: Preparing for the Academic Job Talk** [link](https://sites.umiacs.umd.edu/elm/2022/05/04/talking-the-talk-preparing-for-the-academic-job-talk/)
 
-**How to give an academic job talk.** [link](https://www.youtube.com/watch?v=jkKFEYp0yvo)
+## How to give an academic job talk.** [link](https://www.youtube.com/watch?v=jkKFEYp0yvo)
 
-**The pain points of teaching computer science** [link](https://austinhenley.com/blog/teachingpainpoints.html)
+## The pain points of teaching computer science** [link](https://austinhenley.com/blog/teachingpainpoints.html)
 
 **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** [link](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 ```
