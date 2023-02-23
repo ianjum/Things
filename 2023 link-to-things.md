@@ -1,9 +1,9 @@
 ### February, 2023
 
-**How to be the #1 pick in an R1 faculty search
+**How to be the #1 pick in an R1 faculty search**
 - [link](https://www.youtube.com/watch?v=gjXD5dwRnDU&t=196s)
 
-**How to Talk
+**How to Talk**
 - [link](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 ### January, 2023
