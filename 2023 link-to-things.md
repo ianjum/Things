@@ -6,13 +6,16 @@
 **How to Talk**
 - [link](https://www.youtube.com/watch?v=Unzc731iCUY)
 
+**Sample Academic Interview Questions**
+- [link](https://navigator.wlu.ca/content/documents/fileItemController/2013%20Sample%20Academic%20Interview%20Questions.pdf)
+
 ### January, 2023
 
 **Preparing for Academic Interviews** 
 - [link](https://www.training.nih.gov/assets/Preparing_for_Academic_Interviews_Handout.pdf)
+
 **35 Tenure Track Professor Interview Questions (With Answers)**
 - [link](https://www.indeed.com/career-advice/interviewing/tenure-track-professor-interview-questions)
-- [link](https://www.youtube.com/watch?v=HBF31vC9_3I)
 
 
 **Talking the Talk: Preparing for the Academic Job Talk** [link](https://sites.umiacs.umd.edu/elm/2022/05/04/talking-the-talk-preparing-for-the-academic-job-talk/)
