@@ -13,7 +13,7 @@
 
 **Talking the Talk: Preparing for the Academic Job Talk** [link](https://sites.umiacs.umd.edu/elm/2022/05/04/talking-the-talk-preparing-for-the-academic-job-talk/)
 
-**How to give an academic job talk.** [link]{https://www.youtube.com/watch?v=jkKFEYp0yvo}
+**How to give an academic job talk.** [link](https://www.youtube.com/watch?v=jkKFEYp0yvo)
 
 **The pain points of teaching computer science** [link](https://austinhenley.com/blog/teachingpainpoints.html)
 
