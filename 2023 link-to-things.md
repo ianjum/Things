@@ -44,8 +44,8 @@
  
  ### Past
 
-**Tips for Computer Science Faculty Applications**[link](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
+**Tips for Computer Science Faculty Applications** [link](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
  
-**Even a Geek Can Speak**[link](https://www.amazon.com/Even-Geek-Speak-Joey-Asher/dp/0978577604)
+**Even a Geek Can Speak** [link](https://www.amazon.com/Even-Geek-Speak-Joey-Asher/dp/0978577604)
 
-**The CS Assistant Professor Handbook**[link](https://vijay03.github.io/asstprofbook/?fbclid=IwAR0g1mUwUQ1GZywu0sdwqh_zpQPPkAlNJd-Geh312CWzBzYY3k7Xj1IWpdA)
+**The CS Assistant Professor Handbook** [link](https://vijay03.github.io/asstprofbook/?fbclid=IwAR0g1mUwUQ1GZywu0sdwqh_zpQPPkAlNJd-Geh312CWzBzYY3k7Xj1IWpdA)
