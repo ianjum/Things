@@ -1,5 +1,7 @@
 ### February, 2023
 
+- Faculty Application Advice [link](https://sylviaherbert.com/faculty-application-advice)
+
 - How to be the #1 pick in an R1 faculty search [link](https://www.youtube.com/watch?v=gjXD5dwRnDU&t=196s)
 
 - How to Talk [link](https://www.youtube.com/watch?v=Unzc731iCUY)
