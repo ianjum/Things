@@ -1,21 +1,16 @@
 ### February, 2023
 
-**How to be the #1 pick in an R1 faculty search**
-- [link](https://www.youtube.com/watch?v=gjXD5dwRnDU&t=196s)
+**How to be the #1 pick in an R1 faculty search** [link](https://www.youtube.com/watch?v=gjXD5dwRnDU&t=196s)
 
-**How to Talk**
-- [link](https://www.youtube.com/watch?v=Unzc731iCUY)
+**How to Talk** [link](https://www.youtube.com/watch?v=Unzc731iCUY)
 
-**Sample Academic Interview Questions**
-- [link](https://navigator.wlu.ca/content/documents/fileItemController/2013%20Sample%20Academic%20Interview%20Questions.pdf)
+**Sample Academic Interview Questions** [link](https://navigator.wlu.ca/content/documents/fileItemController/2013%20Sample%20Academic%20Interview%20Questions.pdf)
 
 ### January, 2023
 
-**Preparing for Academic Interviews** 
-- [link](https://www.training.nih.gov/assets/Preparing_for_Academic_Interviews_Handout.pdf)
+**Preparing for Academic Interviews** [link](https://www.training.nih.gov/assets/Preparing_for_Academic_Interviews_Handout.pdf)
 
-**35 Tenure Track Professor Interview Questions (With Answers)**
-- [link](https://www.indeed.com/career-advice/interviewing/tenure-track-professor-interview-questions)
+**35 Tenure Track Professor Interview Questions (With Answers)** [link](https://www.indeed.com/career-advice/interviewing/tenure-track-professor-interview-questions)
 
 
 **Talking the Talk: Preparing for the Academic Job Talk** [link](https://sites.umiacs.umd.edu/elm/2022/05/04/talking-the-talk-preparing-for-the-academic-job-talk/)
@@ -45,4 +40,12 @@
  - [The perfect introduction](https://parkerderrington.com/grant-writing-introduction/)
  - [Can your grant application stand up on its own?](https://parkerderrington.com/research-grant-application-background/)
  - [Seven Deadly Sins of Grant-Writing: Sins of Omission](https://parkerderrington.com/seven-deadly-sins-of-grant-writing-sins-of-omission/)
- - [Key Sentences are a PIPPIN for Communicators](https://parkerderrington.com/key-sentences-are-a-pippin-for-communicators/)
+ - [Key Sentences are a PIPPIN for Communicators](https://parkerderrington.com/key-sentences-are-a-pippin-for-communicators
+ 
+ ### Past
+
+**Tips for Computer Science Faculty Applications**[link](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
+ 
+**Even a Geek Can Speak**[link](https://www.amazon.com/Even-Geek-Speak-Joey-Asher/dp/0978577604)
+
+**The CS Assistant Professor Handbook**[link](https://vijay03.github.io/asstprofbook/?fbclid=IwAR0g1mUwUQ1GZywu0sdwqh_zpQPPkAlNJd-Geh312CWzBzYY3k7Xj1IWpdA)
