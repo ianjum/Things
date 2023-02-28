@@ -21,6 +21,7 @@
 - 6 blog tips for busy academics [link](https://matt.might.net/articles/how-to-blog-as-an-academic/) 
 
 - Tips for Computer Science Faculty Applications [link](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
+> Have excellent tips for writing the statements. Also, have a few perfect sample statements of each type.
  
 - Even a Geek Can Speak [link](https://www.amazon.com/Even-Geek-Speak-Joey-Asher/dp/0978577604)
 
