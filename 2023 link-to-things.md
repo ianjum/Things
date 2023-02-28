@@ -1,20 +1,20 @@
 ### February, 2023
 
 - Getting an academic job by Michael Ernst [link](https://homes.cs.washington.edu/~mernst/advice/academic-job.html)
-  Was extremely helpful for understanding the whole process
+  > Was extremely helpful for understanding the whole process
   
 - Advice for researchers and students Compiled by Michael Ernst [link](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
 
 - How to give a technical presentation by Michael Ernst (how to give a scientific talk) [link](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
-  Was extremely helpful for preparing the job talk
+  > Was extremely helpful for preparing the job talk
 
 - Faculty Application Advice [link](https://sylviaherbert.com/faculty-application-advice)
-  Was extremely helpful for preparing interview
+  > Was extremely helpful for preparing interview
 
 - How to be the #1 pick in an R1 faculty search [link](https://www.youtube.com/watch?v=gjXD5dwRnDU&t=196s)
 
 - How to Talk [link](https://www.youtube.com/watch?v=Unzc731iCUY)
-  Was extremely helpful for preparing the job talk
+  > Was extremely helpful for preparing the job talk
 
 - Sample Academic Interview Questions [link](https://navigator.wlu.ca/content/documents/fileItemController/2013%20Sample%20Academic%20Interview%20Questions.pdf)
 
